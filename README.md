@@ -11,3 +11,7 @@ You can open a merge request to add anything you find interesting regarding the 
 this repo.
 
 > ⚠️ No merge request containing exact extracts of the book will be accepted in order to avoid copyright infringements.
+
+## Structure
+
+You'll find a [glossary](GLOSSARY.md) with words related to DDD.
